@@ -1,0 +1,9 @@
+{
+  "name": "dennistimmermann-block-ipsum",
+  "description": "Insert placeholders for simple mockups instead of lorem ipsum",
+  "version": "0.0.1",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
